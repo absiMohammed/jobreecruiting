@@ -9,7 +9,7 @@
   "dependencies": {
     "@ishawnwang/withunmounted": "^1.0.1",
     "@remobile/react-native-splashscreen": "^1.0.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "moment": "^2.24.0",
     "native-base": "^2.12.1",
     "react": "16.6.3",
